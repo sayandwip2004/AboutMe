@@ -44,14 +44,10 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sayandwip2004&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayandwip2004&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandwip2004&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayandwip2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sayandwip2004&theme=radical" alt="GitHub Streak" />
+</div>
 
 ###
 
