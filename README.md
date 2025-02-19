@@ -37,7 +37,7 @@
 
 ### 🔥 Profile Views  
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sayandwip2004&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://count.getloli.com/get/@sayandwip2004?theme=rule34" alt="Profile views" />
 </p>
 
 ###
