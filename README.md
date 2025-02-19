@@ -37,7 +37,7 @@
 
 ### 🔥 Profile Views  
 <p align="left">
-  <img src="https://count.getloli.com/get/@sayandwip2004?theme=nobeta" alt="Profile views" />
+  <img src="https://count.getloli.com/get/@sayandwip2004?theme=doremon" alt="Profile views" />
 </p>
 
 ###
