@@ -51,6 +51,13 @@
 
 ###
 
+### 🚀 Most Used Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandwip2004&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+###
+
 ### 🐍 GitHub Contribution Snake  
 <p align="center">
   <img src="https://github.com/sayandwip2004/sayandwip2004/blob/output/github-contribution-grid-snake.svg" />
